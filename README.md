@@ -1,5 +1,8 @@
 # IBM-Data-Engineering-Capstone-Project
 
+![Data Engineering Full Project](https://github.com/OsamaELsohafy/IBM-Data-Engineering-Capstone-Project/blob/main/MLOps/data%20eng%20full%20project.png)
+
+
 ## Environment
 This document introduces you to the data platform architecture of an ecommerce company named SoftCart.
 
